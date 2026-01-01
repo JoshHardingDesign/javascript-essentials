@@ -1,0 +1,13 @@
+<! DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8>"
+        <title>Displaying a Message to the User
+            <script>
+                alert("Hello JavaScript World");
+            </script>
+        </title>
+    </head>
+    <body>
+    </body>
+</html>
